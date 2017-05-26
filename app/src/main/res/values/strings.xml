@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">muni</string>
+    <string name="edit_message">type message</string>
+    <string name="button_send">send</string>
+
+
+</resources>
